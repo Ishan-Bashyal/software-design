@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ishan\\Desktop\\software\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BED92686-DD17-4E67-A7CE-82112ED86C97}|Project1\\Project1.csproj|c:\\users\\ishan\\desktop\\software\\project1\\project1\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED92686-DD17-4E67-A7CE-82112ED86C97}|Project1\\Project1.csproj|solutionrelative:project1\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED92686-DD17-4E67-A7CE-82112ED86C97}|Project1\\Project1.csproj|c:\\users\\ishan\\desktop\\software\\project1\\project1\\project1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BED92686-DD17-4E67-A7CE-82112ED86C97}|Project1\\Project1.csproj|solutionrelative:project1\\project1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "student.cs",
+              "DocumentMoniker": "C:\\Users\\Ishan\\Desktop\\software\\Project1\\Project1\\Model\\student.cs",
+              "RelativeDocumentMoniker": "Project1\\Model\\student.cs",
+              "ToolTip": "C:\\Users\\Ishan\\Desktop\\software\\Project1\\Project1\\Model\\student.cs",
+              "RelativeToolTip": "Project1\\Model\\student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T02:18:02.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Project1.csproj",
+              "DocumentMoniker": "C:\\Users\\Ishan\\Desktop\\software\\Project1\\Project1\\Project1.csproj",
+              "RelativeDocumentMoniker": "Project1\\Project1.csproj",
+              "ToolTip": "C:\\Users\\Ishan\\Desktop\\software\\Project1\\Project1\\Project1.csproj",
+              "RelativeToolTip": "Project1\\Project1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-21T02:02:52.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
